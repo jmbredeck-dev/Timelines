@@ -1,0 +1,25 @@
+---
+title: Arlington House Chronology
+#custis: #4f46e5
+#war: #dc2626
+#nps: #16a34a
+---
+
+# Custis & Lee Era
+
+1778-12: John Parke Custis buys the property land. #custis
+1802 / 1818: George Washington Parke Custis builds Arlington House. #custis
+1831-06-30: Mary Custis marries Robert E. Lee here. #custis
+1857: The Lee family inherits the plantation property. #custis
+
+# Civil War & Aftermath
+
+1861-04: Robert E. Lee departs for the Civil War. #war
+1861-05: Union troops occupy the strategic house grounds. #war
+1863: Federal government establishes Freedman's Village here. #war
+1864: Government officially establishes Arlington National Cemetery. #war
+
+# National Park Service Era
+
+1933: National Park Service takes over house stewardship. #nps
+1966-10-15: House listed on National Register of Historic Places. #nps
